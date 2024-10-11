@@ -1,7 +1,7 @@
 ---
-title: /
+title: home/
 layout: home
-permalink: /
+permalink: home/
 ---
 <p align="center">
 <img src="graphics/fixed.jpg" alt="Headshot" width="50%" align="center">
@@ -12,12 +12,11 @@ permalink: /
   <b> About </b>
 </p>
   
-Hi, I'm Libby Berkhout and I'm a Trottier Space Institue Postdoctoral Fellow at McGill University. I work in the <a href="https://sites.google.com/a/mcgillcosmology.ca/mcgillcosmology/">McGill Cosmology Instrumentation Laboratory</a> and the McGill Radio Lab on radio science instrumentation, focusing on instruments for cosmology. 
-
+What's up! My name is Marc-Olivier R. Lalonde but I go by Marc-O. I'm currently an Astrophysics PhD student in the <a href="https://sese.asu.edu/">School of Earth and Space Exploration</a> <br> (SESE) at Arizona State University (ASU).
 
 <p align="center">
 <b> Links</b> <br>
   <a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-2293-9639&sort=date+desc">NASA ADS</a> <br>
   <a href="https://github.com/lmberkhout">Github</a> <br>
   <a href="graphics/LibbyBerkhoutCV.pdf">My CV</a> <br>
-  Contact me: <a href="mailto:lmberkhout@asu.edu">lmberkhout@asu.edu</a>
+  Contact me: <a href="mailto:mrlalonde@asu.edu">mrlalonde@asu.edu</a>
