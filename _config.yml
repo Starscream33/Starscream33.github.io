@@ -7,8 +7,8 @@ header_pages:
   - index.md
   - research.md
   - BJJ.md
-  - Climbing
-  - Personal Projects
+  - Climbing.md
+  - Personal Projects.md
 
 style: dark
 
