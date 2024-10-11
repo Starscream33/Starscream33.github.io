@@ -1,7 +1,7 @@
 ---
 title: /home
 layout: home
-permalink: /home
+permalink: /
 ---
 <p align="center">
 <img src="graphics/fixed.jpg" alt="Headshot" width="50%" align="center">
