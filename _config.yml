@@ -1,0 +1,17 @@
+title: 'lmberkhout.github.io'
+description: "."
+baseurl: "/"
+url: "https://lmberkhout.github.io"
+
+header_pages:
+  - index.md
+  - research.md
+  - teaching.md
+
+style: dark
+
+footer: ''
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
