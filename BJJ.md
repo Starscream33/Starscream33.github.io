@@ -1,7 +1,7 @@
 ---
-title: /teaching
+title: /BJJ
 layout: page
-permalink: /teaching
+permalink: /BJJ
 ---
 
 <p align="center">
