@@ -4,7 +4,7 @@ baseurl: "/"
 url: "https://Starscream33.github.io"
 
 header_pages:
-  - home.md
+  - index.md
   - research.md
   - BJJ.md
   - Climbing
