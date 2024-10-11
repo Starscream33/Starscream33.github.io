@@ -1,12 +1,14 @@
-title: 'lmberkhout.github.io'
+title: 'Starscream33.github.io'
 description: "."
 baseurl: "/"
-url: "https://lmberkhout.github.io"
+url: "https://Starscream33.github.io"
 
 header_pages:
-  - index.md
+  - home.md
   - research.md
-  - teaching.md
+  - BJJ.md
+  - Climbing
+  - Personal Projects
 
 style: dark
 
