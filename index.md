@@ -1,5 +1,5 @@
 ---
-title: MOL/home
+title: /home
 layout: home
 permalink: /
 ---
