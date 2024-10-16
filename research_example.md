@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /research
-permalink: /research
+title: /research_example
+permalink: /research_example
 ---
 
 <div style="text-align: center;">
