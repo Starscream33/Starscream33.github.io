@@ -12,5 +12,5 @@ What's up! My name is Marc-Olivier R. Lalonde but I go by Marc-O. I'm currently 
 <p align="center">
 <b> Links</b> <br>
   <a href="https://github.com/Starscream33">Github</a> <br>
-  <a href="graphics/LibbyBerkhoutCV.pdf">My CV</a> <br>
+  <a href="graphics/CV_MOL.pdf">My CV</a> <br>
   Contact me: <a href="mailto:mrlalonde@asu.edu">mrlalonde@asu.edu</a>
