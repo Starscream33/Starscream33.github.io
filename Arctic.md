@@ -1,5 +1,5 @@
 ---
-title: /Arctic
+title: /Trips/Arctic
 layout: home
 permalink: /Trips/Arctic
 ---
