@@ -4,6 +4,6 @@ layout: page
 permalink: /Trips
 ---
 
-<a href="starscream33.github.io/Trips/Arctic">Arctic</a> <br>
+<a href="/Trips/Arctic">Arctic</a> <br>
 
-test
+<a href="{{ site.baseurl }}/Trips/Arctic">Arctic</a> <br>
