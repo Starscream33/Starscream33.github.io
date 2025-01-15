@@ -1,7 +1,7 @@
 ---
 title: /Personal Projects
 layout: page
-permalink: /Personal Projects
+permalink: /PersonalProjects
 ---
 
 My other stuff

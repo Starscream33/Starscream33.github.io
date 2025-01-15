@@ -4,6 +4,7 @@ layout: page
 permalink: /Trips
 ---
 
-<a href="/Trips/Arctic">Arctic</a> <br>
 
-<a href="{{ site.baseurl }}/Trips/Arctic">Arctic</a> <br>
+<h2><a href="{{ site.baseurl }}/Trips/Arctic">Arctic</a></h2> <br>
+
+
