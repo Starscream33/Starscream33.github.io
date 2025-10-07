@@ -13,5 +13,5 @@ I usually go by Marc-O. I'm currently an Astrophysics PhD student in the <a href
 <p align="center">
 <b> Links</b> <br>
   <a href="https://github.com/Starscream33">Github</a> <br>
-  <a href="graphics/CV_MOL.pdf">My CV</a> <br>
+  <a href="graphics/MOL_CV_2025.pdf">My CV</a> <br>
   Contact me: <a href="mailto:mrlalonde@asu.edu">mrlalonde@asu.edu</a>
