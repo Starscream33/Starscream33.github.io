@@ -4,5 +4,4 @@ layout: page
 permalink: /Climbing
 ---
 
-I climb
-bruh
+In construction
