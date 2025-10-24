@@ -14,4 +14,9 @@ Zhao, Y., Jacobs, D. C., Bowman, J., Samson, T. and Lalonde, M.-O. R., Pathfindi
 
 ## Talks
 
-Lalonde, M.O. R., Jacobbs, D. C., and Aguirre, J. E., Development of a Low Mutual Coupling Antenna for Future 21 cm Interferometers. NRSM 2025, Boulder, CO.
+Lalonde, Marc-Olivier R. et al. (2025). “Development of a Low Mutual Coupling Antenna for Future 21 cm Interferometers”. In: 2025 United States National Committee of URSI National Radio Science Meeting (USNC-URSI NRSM), pp. 278–278. doi: 10.23919/USNC-URSINRSM66067.2025.10906848
+
+## In Submission
+Herman, Lawrence et al. (2024). Drone-Based Antenna Beam Calibration in the High Arctic. arXiv: 2407.00856 [astro-ph.IM]. url: https://arxiv.org/abs/2407.00856.
+
+Zhao, Yifan et al. (2024). An Update on the External Calibrator for Hydrogen Observatories (ECHO). arXiv: 2407.03462 [astro-ph.IM]. url: https://arxiv.org/abs/2407.03462.
